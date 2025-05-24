@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a simple HTTP server built using Python's AsyncIO library, developed as part of a school assignment at the University of Malawi in April 2025. The server handles HTTP client requests asynchronously, serving HTML templates and processing form submissions. It demonstrates the use of asynchronous programming in Python to manage concurrent client connections efficiently.
+This project is a simple HTTP server built using Python's AsyncIO library, developed as part of a school assignment at the University of Malawi. The server handles HTTP client requests asynchronously, serving HTML templates and processing form submissions. It demonstrates the use of asynchronous programming in Python to manage concurrent client connections efficiently.
 
 The server:
 
