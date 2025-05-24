@@ -110,7 +110,6 @@ To run this project, you need:
 
 Special thanks to my lecturer, [Ramsey Ith Njema II](https://github.com/rnjema), for providing guidance and instruction during the course at the University of Malawi, which made this project possible.
 
-Inspired by Python's official asyncio documentation.
 
 ## License
 
