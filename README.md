@@ -23,14 +23,14 @@ To run this project, you need:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/asyncio-http-server.git
-   cd asyncio-http-server
+   git clone https://github.com/yewo-devnet/py_http_server.git
+   cd py_http_server
    ```
 
 2. **Project Structure:**
    Ensure the following files and directories are present:
    ```
-   asyncio-http-server/
+   py_http_server/
    ├── templates/
    │   ├── index.html
    │   ├── register.html
